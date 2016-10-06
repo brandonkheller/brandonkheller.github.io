@@ -1,5 +1,8 @@
 body {
-      font-family: cursive;
+      font-family: Tahoma, sans-serif;
+      color: blue
 }
-      
-      
+
+p {
+ color: aqua     
+ }    
