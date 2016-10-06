@@ -4,12 +4,14 @@ body {
 }
 
 p {
- color: aqua     
- background-color: blue
+ color: aqua;
+ background-color: blue;
  border:2px solid black;
  padding: 10px;
- margin: 30px
+ margin: 30px;
  }    
  
  
- 
+ div {
+      text-align: center;
+
